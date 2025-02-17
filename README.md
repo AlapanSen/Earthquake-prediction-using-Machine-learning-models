@@ -6,8 +6,7 @@
 <li><b>BIKRAM SARDAR</b> Github: <a href="https://github.com/sardarbikram07">sardarbikram07</a></li>
 </ul>
 <h2>Abstract</h2>
-Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research.
-This project aims to predict the magnitude and probability of Earthquake occurring in a particular region (California, United States) from the historic data of that region using various Machine learning models.
+Earthquakes are natural disasters that can beget significant damage and loss of life. Accurate vaticination of earthquakes is essential for developing early warning systems, disaster planning, threat assessment, and scientific exploration. This design aims to prognosticate the magnitude and probability of Earthquake being in a particular region( California, United States) from the major data of that region using colorful Machine literacy models.
 
 <h2>Dataset</h2>
 The dataset used in this project is called the <a href="http://socr.ucla.edu/docs/resources/SOCR_Data/SOCR_Data_Earthquakes_Over3.html">"SOCR Earthquake Dataset"</a>, and it contains information about earthquakes that have occurred with a magnitude of 3.0 or greater in California, United States.
